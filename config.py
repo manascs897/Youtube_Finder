@@ -1,0 +1,3 @@
+# Add your API keys here
+YOUTUBE_API_KEY = "AIzaSyD6KwqzdmBEkYJXHszmk6AavyEQxN2XTU0"
+OPENAI_API_KEY = "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"
